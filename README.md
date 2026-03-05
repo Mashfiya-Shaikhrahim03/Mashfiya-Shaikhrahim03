@@ -1,4 +1,4 @@
-## Welcome to Mashfiya_tech's GitHub 🚀
+## Welcome to Mashfiya's GitHub 🚀
 🎓Undergraduate Student (AI/ML Engg.)<br>
 🐍 Currently learning & Exploring programming languages!<br> 
 📍 Nanded , Maharashtra , INDIA<br>
