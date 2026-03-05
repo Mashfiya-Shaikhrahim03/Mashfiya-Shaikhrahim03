@@ -21,4 +21,5 @@ I am currently focusing on my skill like learning python and exploring to build 
 
 ## Connect With Me
 LinkedIn :
-https://linkedin.com/in/
+https://www.linkedin.com/in/shaikh-mashfiya-rahim-023283314
+https://github.com/Mashfiya-Shaikhrahim03
