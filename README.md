@@ -8,7 +8,7 @@
 I'm a 3rd-year undergraduate student pursuing a degree in Artificial Intelligence and Machine Learning.<br>
 Passionate about Data Science and Machine Learning, I enjoy building projects, experimenting with data, and turning ideas into practical solutions. Currently, I'm focused on strengthening my skills in Python, Machine Learning, and real-world problem-solving through hands-on projects.<br>
 
-## Skills
+## 🛠️ Skills
 - Python
 - Pandas
 - NumPy
@@ -22,7 +22,7 @@ Passionate about Data Science and Machine Learning, I enjoy building projects, e
 - House Price Prediction 
 - chat-system-using-oop
 
-## Currently Learning
+## 🌱 Currently Learning
 - Machine Learning
 - Data Science
 - Deep Learning
