@@ -15,6 +15,7 @@ Passionate about Data Science and Machine Learning, I enjoy building projects, e
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- mysql
 
 ## Projects
 - Loan Approval Prediction
