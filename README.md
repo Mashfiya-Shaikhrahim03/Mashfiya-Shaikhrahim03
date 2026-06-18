@@ -1,23 +1,30 @@
 ## Welcome to Mashfiya's GitHub 🚀
-🎓Undergraduate Student (AI/ML Engg.)<br>
-🐍 Currently learning & Exploring programming languages!<br> 
+🎓Undergraduate Student (AI/ML)<br>
+🐍 Aspiring Data Scientist and Machine Learning Engineer.
+<br> 
 📍 Nanded , Maharashtra , INDIA<br>
 
 ## About Me
-I'm a second-year undergraduate student pursuing Engg. in AI/ML .<br>
-I am currently focusing on my skill like learning python and exploring to build a strong programming foundation before moving deeper into the AI and machine learning field.<br>
+I'm a 3rd-year undergraduate student pursuing a degree in Artificial Intelligence and Machine Learning.<br>
+Passionate about Data Science and Machine Learning, I enjoy building projects, experimenting with data, and turning ideas into practical solutions. Currently, I'm focused on strengthening my skills in Python, Machine Learning, and real-world problem-solving through hands-on projects.<br>
 
-## Focusing on
-- python programming<br>
-- Basic of Artificial Intellingence & machine learning<br>
-- Git & GiHub<br>
-- problem solvinng and programming foundamental<br>
+## Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
+## Projects
+- Loan Approval Prediction
+- House Price Prediction 
+- chat-system-using-oop
 
-## My projects
-- Building strong programming fundamentals<br>
-- Develop projects in python and (AI/MI)<br>
-- Continuosly learn and grom in the technology field.<br>
+## Currently Learning
+- Machine Learning
+- Data Science
+- Deep Learning
 
 ## Connect With Me
 LinkedIn :<br>
