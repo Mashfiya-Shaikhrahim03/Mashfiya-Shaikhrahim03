@@ -5,7 +5,7 @@
 📍 Nanded , Maharashtra , INDIA<br>
 
 ## About Me
-I'm a 3rd-year undergraduate student pursuing a degree in Artificial Intelligence and Machine Learning.<br>
+Pre-Final-Year student, pursuing a degree in Artificial Intelligence and Machine Learning.<br>
 Passionate about Data Science and Machine Learning, I enjoy building projects, experimenting with data, and turning ideas into practical solutions. Currently, I'm focused on strengthening my skills in Python, Machine Learning, and real-world problem-solving through hands-on projects.<br>
 
 ## 🛠️ Skills
