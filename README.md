@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to Mashfiya's GitHub</h1> 
 🎓Undergrad Student (AI/ML)<br>
-🐍 Aspiring Data Scientist and Machine Learning Engineer.
+🐍 Future AI/ML Engineer.
 <br> 
 📍 Nanded , Maharashtra , INDIA<br>
 
