@@ -1,13 +1,13 @@
 <h1 align="center">🚀 Welcome to Mashfiya's GitHub</h1> 
-class AIMLStudent:
+
+class FutureAIMLEngineer:
 
     def __init__(self, name, education, skills):
         self.name = name
         self.education = education
         self.skills = skills
 
-
-student = AIMLStudent(
+profile = FutureAIMLEngineer(
     name="Mashfiya Shaikh",
     education="Pre-Final-Year B.Tech — Artificial Intelligence & Machine Learning",
     skills=(
@@ -16,6 +16,7 @@ student = AIMLStudent(
         "Deep Learning",
         "NLP",
         "Transformers",
+        "Generative AI",
         "LLMs",
         "RAG"
     )
