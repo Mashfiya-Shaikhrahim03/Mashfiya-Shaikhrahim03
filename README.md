@@ -1,22 +1,9 @@
-class FutureAIMLEngineer:
+# Hi, I'm Mashfiya Shaikh 👋
 
-    def __init__(self, name, education, skills):
-        self.name = name
-        self.education = education
-        self.skills = skills
+```python
+class AIMLEngineer:
+    def __init__(self):
+        self.role = "B.Tech Pre-Final Year (AI & ML)"
+        self.focus = ["NLP", "LLMs", "RAG Pipelines", "Deep Learning"]
 
-
-profile = FutureAIMLEngineer(
-    name="Mashfiya Shaikh",
-    education="Pre-Final-Year B.Tech — Artificial Intelligence & Machine Learning",
-    skills=[
-        "Python",
-        "Machine Learning",
-        "Deep Learning",
-        "NLP",
-        "Transformers",
-        "Generative AI",
-        "LLMs",
-        "RAG"
-    ]
-)
+me = AIMLEngineer()
