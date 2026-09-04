@@ -1,33 +1,25 @@
 <h1 align="center">🚀 Welcome to Mashfiya's GitHub</h1> 
-🎓Undergrad Student (AI/ML)<br>
-🐍 Future AI/ML Engineer.
-<br> 
-📍 Nanded , Maharashtra , INDIA<br>
+class AIMLStudent:
 
-## About Me
-Pre-Final-Year student, pursuing a degree in Artificial Intelligence and Machine Learning.<br>
-Passionate about Data Science and Machine Learning, I enjoy building projects, experimenting with data, and turning ideas into practical solutions. Currently, I'm focused on strengthening my skills in Python, Machine Learning, and real-world problem-solving through hands-on projects.<br>
+    def __init__(self, name, education, skills):
+        self.name = name
+        self.education = education
+        self.skills = skills
 
-## 🛠️ Skills
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- pytorch
-- mysql
 
-## Projects
-- Loan Approval Prediction
-- House Price Prediction 
-- chat-system-using-oop
-
-## 🌱 Currently Learning
-- Machine Learning
-- Data Science
-- Deep Learning
-
+student = AIMLStudent(
+    name="Mashfiya Shaikh",
+    education="Pre-Final-Year B.Tech — Artificial Intelligence & Machine Learning",
+    skills=(
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Transformers",
+        "LLMs",
+        "RAG"
+    )
+)
 ## Connect With Me
 LinkedIn :<br>
 https://www.linkedin.com/in/shaikh-mashfiya-rahim-023283314<br>
