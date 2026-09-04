@@ -1,9 +1,7 @@
 # Hi, I'm Mashfiya Shaikh 👋
 
-```python
 class AIMLEngineer:
     def __init__(self):
-        self.role = "B.Tech Pre-Final Year (AI & ML)"
-        self.focus = ["NLP", "LLMs", "RAG Pipelines", "Deep Learning"]
-
-me = AIMLEngineer()
+        self.name = "Mashfiya Shaikh"
+        self.status = "Pre-Final Year B.Tech (AI & ML)"
+        self.focus = ["LLMs", "RAG", "Transformers", "NLP"]
