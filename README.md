@@ -2,7 +2,7 @@
 
 # Sk.Mashfiya Rahim 👋
 
-### "Machine Learning & GenAI engineer specializing in end-to-end LLM applications."
+### Machine Learning & GenAI engineer specializing in end-to-end LLM applications.
 ```python
 class AIMLEngineer:
     language = "Python"
