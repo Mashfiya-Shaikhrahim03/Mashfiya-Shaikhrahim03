@@ -5,7 +5,7 @@ class AIMLEngineer:
     language = "Python"
 
     def __init__(self):
-        self.name = "Mashfiya Shaikh"
+        self.name = "Mashfiya Rahim"
         self.status = "Pre-Final Year B.Tech (AI & ML)"
         self.focus = [
            "Transformers & NLP",
