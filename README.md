@@ -8,7 +8,7 @@
 
 ```python
 class AIMLEngineer:
-    language = "Python"
+    language = "Python" , "java"
 
     def __init__(self):
         self.name = "Mashfiya Rahim"
