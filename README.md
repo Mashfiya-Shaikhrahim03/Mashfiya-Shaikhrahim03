@@ -3,6 +3,9 @@
 # Sk.Mashfiya Rahim 👋
 
 ### Machine Learning & GenAI engineer specializing in end-to-end LLM applications.
+
+</div>
+
 ```python
 class AIMLEngineer:
     language = "Python"
@@ -11,11 +14,10 @@ class AIMLEngineer:
         self.name = "Mashfiya Rahim"
         self.status = "Pre-Final Year B.Tech (AI & ML)"
         self.focus = [
-           "Transformers & NLP",
+            "Transformers & NLP",
             "Generative AI & LLMs",
             "RAG Architectures",
             "End-to-End AI Deployment"
         ]
 
 me = AIMLEngineer()
-```
